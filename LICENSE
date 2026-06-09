@@ -1,0 +1,42 @@
+AppClone — Proprietary Software License
+
+Copyright (c) 2026 Izan Rodrigo Moreno Maroto. All rights reserved.
+
+This license governs the use of AppClone (bundle identifier
+app.izantech.appclone), including its source code, binaries, assets, and
+accompanying materials (collectively, the "Software").
+
+1. Ownership. The Software is the proprietary property of Izan Rodrigo
+   Moreno Maroto. It is protected by copyright and other intellectual
+   property laws and treaties. All rights are reserved.
+
+2. License, not sale. The Software is licensed, not sold. Your use of the
+   Software is governed by the in-app license (the offline Ed25519 trial or
+   perpetual license) and by the terms of a valid commercial license
+   obtained through https://shop.izantech.app. No title or ownership in the
+   Software is transferred to you.
+
+3. No permission absent a license. Without a valid commercial license, you
+   are granted no rights. In particular, you may not use, copy, modify,
+   adapt, translate, distribute, sublicense, sell, rent, lease, publish, or
+   create derivative works of the Software, in whole or in part.
+
+4. No reverse engineering. You may not reverse-engineer, decompile,
+   disassemble, or otherwise attempt to derive the source code or underlying
+   structure of the Software, except to the extent such restriction is
+   expressly prohibited by applicable law.
+
+5. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+6. Limitation of liability. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE
+   FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+   CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH
+   THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. Termination. Any breach of these terms automatically terminates your
+   license and obligates you to cease all use and destroy all copies of the
+   Software in your possession.
+
+For licensing inquiries, contact dev@izantech.app.
